@@ -1,0 +1,10 @@
+# Arquivos temporários do Power BI
+*.pbix.tmp
+*.pbit.tmp
+
+# Arquivos temporários do Excel
+~$*.xlsx
+
+# Configurações locais
+.DS_Store
+Thumbs.db
