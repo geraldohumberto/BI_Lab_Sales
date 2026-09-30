@@ -45,4 +45,4 @@ O conteúdo presente em `docs/curso/` é mantido apenas como material de referê
 
 ## Autor
 
-Desenvolvido por Geraldo Humberto como parte do portfólio de Business Intelligence.
+Desenvolvido por Geraldo Humberto de Business Intelligence.
